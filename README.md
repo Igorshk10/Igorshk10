@@ -1,7 +1,7 @@
 ## Hi there 👋  
 ### Trainee Web Developer
 
-Motivated web developer focused on clean, maintainable code and understanding how things work. Aiming to become a full-stack developer.
+Motivated web developer focused on clean, maintainable code and understanding how things work. Aiming to become a senior full-stack web developer.
 
 ---
 
