@@ -1,8 +1,9 @@
-## Hi there , I`m Igorshk10👋  
+## Hi there 👋  
 
 ## About Me
-Motivated **trainee web developer** focused on clean, maintainable code and understanding how things work.  
+Motivated trainee web developer focused on clean, maintainable code and understanding how things work.  
 Aiming to become a senior full-stack web developer.
+
 ---
 
 ## 🛠️ Tech Stack
