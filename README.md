@@ -25,12 +25,13 @@ Aiming to become a senior full-stack web developer.
 ## 📚 Current Focus
 - Improving JavaScript & backend skills  
 - Building small full-stack apps  
-- Practicing **React**  
+- Practicing **React**
+- Practicing **TypeScript**
 
 ---
 
 ## 🎯 Goals
 - Master web architecture & backend concepts  
 - Gain real-world project experience  
-- Learn **TypeScript**  
-- Learn **Object-Oriented Programming (OOP)**
+  
+- Learn **Nest.js**
