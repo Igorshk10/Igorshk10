@@ -1,7 +1,7 @@
 ## Hi there 👋  
 
 ## About Me
-Motivated **junior web developer** focused on clean, maintainable code and understanding how things work.  
+Motivated **junior full-stack web developer** focused on clean, maintainable code and understanding how things work.  
 Aiming to become a senior full-stack web developer.
 
 ---
