@@ -8,17 +8,17 @@ Aiming to become a senior full-stack web developer.
 
 ## 🛠️ Tools & Technologies
 
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://skillicons.dev)
+**Languages**
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
-### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,jquery,react&theme=light)](https://skillicons.dev)
+**Frontend**
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,jquery,react)](https://skillicons.dev)
 
-### Server-side
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=light)](https://skillicons.dev)
+**Server-side**
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
-### Database
-[![My Skills](https://skillicons.dev/icons?i=postgres&theme=light)](https://skillicons.dev)
+**Database**
+[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 
 ---
 
