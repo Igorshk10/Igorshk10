@@ -32,5 +32,4 @@ Aiming to become a senior full-stack web developer.
 ## 🎯 Goals
 - Master web architecture & backend concepts  
 - Gain real-world project experience  
-  
 - Learn **Nest.js**
