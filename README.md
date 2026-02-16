@@ -8,13 +8,13 @@ Aiming to become a senior full-stack web developer.
 
 ## 🛠️ Tools & Technologies
 ### Languages
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 ### Frontend
 [![Frontend](https://skillicons.dev/icons?i=html,css,sass,react,jquery)](https://skillicons.dev)
 
-### Server-side (Node.js runtime)
-[![Server](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+### Server-side
+[![Server](https://skillicons.dev/icons?i=nodejs,express,nestjs)](https://skillicons.dev)
 
 ### Database
 [![Database](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
