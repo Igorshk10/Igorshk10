@@ -17,7 +17,7 @@ Aiming to become a senior full-stack web developer.
 [![Server](https://skillicons.dev/icons?i=nodejs,express,nestjs)](https://skillicons.dev)
 
 ### Database
-[![Database](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
 
 ---
 
